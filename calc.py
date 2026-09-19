@@ -1,4 +1,5 @@
 # Simple Calculator
+#this is to show stash
 
 def add(a, b):
     return a + b
@@ -47,3 +48,4 @@ def calculator():
             print(f"Result: {a} / {b} = {divide(a, b)}\n")
 
 calculator()
+
